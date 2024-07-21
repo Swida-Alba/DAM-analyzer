@@ -1,0 +1,4 @@
+Requirements:
+MATLAB R2022b or later
+MATLAB Parallel Computing Toolbox
+MATLAB Statistics and Machine Learning Toolbox
